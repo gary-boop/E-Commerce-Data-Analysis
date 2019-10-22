@@ -4,6 +4,8 @@ The following case study highlights use of **Tableau** for Exploratory Data Anal
 
 An E-commerce company ran marketing campaigns to generate sales. They collected information on the type of device each customer used, the sale amount, total transaction for each day, etc. Here, we analyzed the performance of the various marketing campaigns and understood its relationship with respect to user interaction and total sales. Finally, steps to improve campaign performance are discussed.
 
+Original dataset can be accessed [here](https://raw.githubusercontent.com/gauravhassija/E-Commerce-Data-Analysis/master/final_df.csv).
+
 ## Exploratory Data Analysis
 ### Data Dictionary
 Data Dictionary explains what each column of the dataset represents

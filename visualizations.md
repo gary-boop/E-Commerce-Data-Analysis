@@ -64,3 +64,10 @@ Weekday 4 has the highest amount of sale as compared to other days.
 * 'ActivehoursOS' can be removed from the marketing campaigns as the sale is extremely low as compared to other devices.
 * More campaigns can be scheduled for Weekday 3 and Weekday 5 to improve sales.
 
+We can use these findings from Exploratory Data Analysis to answer questions related campaign performance.
+The following points can be concluded from the study:
+
+* The response of users is good with respect to the marketing campaigns
+* Holiday season shows high number of transactions, stepping up the marketing efforts during this time will be beneficial
+* Furthermore, device selection for marketing campaigns should be revised. Focusing on popular devices will yield better results
+* Finally, the overall marketing effort needs to be refined and enhanced; improving the efforts should provide healthier results

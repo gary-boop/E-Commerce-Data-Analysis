@@ -1,6 +1,8 @@
 # E-Commerce Data Analysis Visualizations
 
-The following case study hghlights use of **Tableau** for Exploratory Data Analysis of E-Commerce Marketing Data
+The following case study highlights use of **Tableau** for Exploratory Data Analysis of E-Commerce Marketing Data
+
+An E-commerce company ran marketing campaigns to generate sales. They collected information on the type of device each customer used, the sale amount, total transaction for each day, etc. Here, we analyzed the performance of the various marketing campaigns and understood its relation with respect to user interaction and total sales. Finally, steps to improve campaign performance are discussed.
 
 ## Exploratory Data Analysis
 ### Data Dictionary
@@ -65,6 +67,7 @@ Weekday 4 has the highest amount of sale as compared to other days.
 * More campaigns can be scheduled for Weekday 3 and Weekday 5 to improve sales.
 
 We can use these findings from Exploratory Data Analysis to answer questions related campaign performance.
+
 The following points can be concluded from the study:
 
 * The response of users is good with respect to the marketing campaigns

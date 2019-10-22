@@ -23,5 +23,14 @@ date	| Sale created day
 weekday	| Day on which sale happened
 item_id	| Item Id
 
+### Relationship between Device Type and User Creation
 
+![EDA1](EDA1.JPG)
 
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA1)
+
+This graph shows the monthly trend between User creation and type of device used.
+
+One thing to observe here is that high number of users are created in November and December. This can be due to the holiday season and not entirely due to the marketing efforts.
+
+**Recommendation:** As customers are in the mood of buying new items during holiday season, the competition for ad space will be high. Marketing efforts should be stepped up to capture every possible customer.

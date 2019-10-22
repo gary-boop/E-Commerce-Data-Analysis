@@ -27,10 +27,40 @@ item_id	| Item Id
 
 ![EDA1](EDA1.JPG)
 
-Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA1)
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA1).
 
 This graph shows the monthly trend between User creation and type of device used.
 
 One thing to observe here is that high number of users are created in November and December. This can be due to the holiday season and not entirely due to the marketing efforts.
 
 **Recommendation:** As customers are in the mood of buying new items during holiday season, the competition for ad space will be high. Marketing efforts should be stepped up to capture every possible customer.
+
+### Relation between Marketing Campaigns and User creation
+
+![EDA2](EDA2.jpg)
+
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA2).
+
+This chart shows the performance of top 10 Marketing campaigns by User creation for each year.
+
+Furthermore, we can also see the break-up with respect to each device.
+
+'Android' is the top performing device across all campaigns.
+
+### Relation between Campaigns and Weekday
+
+![EDA3](EDA3.JPG)
+
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA3).
+
+This graph shows the trend between sum amount of sale for top 10 campaigns across weekdays.
+
+We can also observe the type of device used by the customer.
+
+Weekday 4 has the highest amount of sale as compared to other days.
+
+**Recommendation:**
+
+* 'ActivehoursOS' can be removed from the marketing campaigns as the sale is extremely low as compared to other devices.
+* More campaigns can be scheduled for Weekday 3 and Weekday 5 to improve sales.
+

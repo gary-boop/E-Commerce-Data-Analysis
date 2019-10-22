@@ -1,8 +1,8 @@
-# E-Commerce Data Analysis Visualizations
+# E-Commerce Data Analysis and Visualizations
 
 The following case study highlights use of **Tableau** for Exploratory Data Analysis of E-Commerce Marketing Data
 
-An E-commerce company ran marketing campaigns to generate sales. They collected information on the type of device each customer used, the sale amount, total transaction for each day, etc. Here, we analyzed the performance of the various marketing campaigns and understood its relation with respect to user interaction and total sales. Finally, steps to improve campaign performance are discussed.
+An E-commerce company ran marketing campaigns to generate sales. They collected information on the type of device each customer used, the sale amount, total transaction for each day, etc. Here, we analyzed the performance of the various marketing campaigns and understood its relationship with respect to user interaction and total sales. Finally, steps to improve campaign performance are discussed.
 
 ## Exploratory Data Analysis
 ### Data Dictionary
@@ -25,7 +25,7 @@ date	| Sale created day
 weekday	| Day on which sale happened
 item_id	| Item Id
 
-### Relationship between Device Type and User Creation
+### 1. Relationship between Device Type and User Creation
 
 ![EDA1](EDA1.JPG)
 
@@ -37,7 +37,7 @@ One thing to observe here is that high number of users are created in November a
 
 **Recommendation:** As customers are in the mood of buying new items during holiday season, the competition for ad space will be high. Marketing efforts should be stepped up to capture every possible customer.
 
-### Relation between Marketing Campaigns and User creation
+### 2. Relation between Marketing Campaigns and User creation
 
 ![EDA2](EDA2.jpg)
 
@@ -49,7 +49,7 @@ Furthermore, we can also see the break-up with respect to each device.
 
 'Android' is the top performing device across all campaigns.
 
-### Relation between Campaigns and Weekday
+### 3. Relation between Campaigns and Weekday
 
 ![EDA3](EDA3.JPG)
 
@@ -66,9 +66,7 @@ Weekday 4 has the highest amount of sale as compared to other days.
 * 'ActivehoursOS' can be removed from the marketing campaigns as the sale is extremely low as compared to other devices.
 * More campaigns can be scheduled for Weekday 3 and Weekday 5 to improve sales.
 
-We can use these findings from Exploratory Data Analysis to answer questions related campaign performance.
-
-The following points can be concluded from the study:
+## Conclusion
 
 * The response of users is good with respect to the marketing campaigns
 * Holiday season shows high number of transactions, stepping up the marketing efforts during this time will be beneficial

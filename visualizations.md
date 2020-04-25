@@ -43,7 +43,7 @@ One thing to observe here is that high number of users are created in November a
 
 ![EDA3](EDA3.JPG)
 
-Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA3).
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA2).
 
 This chart shows the performance of top 10 Marketing campaigns by User creation for each year.
 
@@ -55,7 +55,7 @@ Furthermore, we can also see the break-up with respect to each device.
 
 ![EDA2](EDA2.jpg)
 
-Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA2).
+Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA3).
 
 This graph shows the trend between sum amount of sale for top 10 campaigns across weekdays.
 

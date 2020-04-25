@@ -41,7 +41,7 @@ One thing to observe here is that high number of users are created in November a
 
 ### 2. Relation between Marketing Campaigns and User creation
 
-![EDA2](EDA3.jpg)
+![EDA3](EDA3.JPG)
 
 Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA3).
 
@@ -53,7 +53,7 @@ Furthermore, we can also see the break-up with respect to each device.
 
 ### 3. Relation between Campaigns and Weekday
 
-![EDA3](EDA2.JPG)
+![EDA2](EDA2.jpg)
 
 Original visualization can be accessed [here](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Gaurav-Hassija-Final/EDA2).
 
